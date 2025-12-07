@@ -5,27 +5,29 @@
 
 ## What is Docker
 
-![image](<static/Screenshot 2025-12-08 024051.png>)
+<img width="2195" height="736" alt="Screenshot 2025-12-08 024051" src="https://github.com/user-attachments/assets/05654a72-4fba-4ecb-9e65-62f63f59d305" />
+
 
 ## Understanding Containers V/S Virtual Machines
-![image](<vm vs container.jpg>)
+
+![vm vs container](https://github.com/user-attachments/assets/b5b42706-42c6-4178-9c1f-1264cdf1962d)
 
 
 ## Containers V/S Virtual machines with the help of a Building and House analogy
 
 
-![image](cont.png)
+<img width="1728" height="1080" alt="container_vs_vm" src="https://github.com/user-attachments/assets/1bd983c7-e1be-4c31-b771-fcdc425d445b" />
 
 
 
 ## Challenges with the non-containerized applications
 
-![image](<trad way.png>)
+<img width="1728" height="835" alt="trad way" src="https://github.com/user-attachments/assets/c25495dc-ab16-4b68-96ff-1e812b1a9a8b" />
 
 
 ## How Docker solves the challenges
 
-![image](<docker way.png>)
+<img width="1728" height="807" alt="docker way" src="https://github.com/user-attachments/assets/1e892f92-ff5f-4438-9343-66da7403261d" />
 
 
 ## That's how docker was born(Just kidding!)
@@ -36,9 +38,9 @@
 
 ## A Simple Docker WorkFlow
 
-![image](<docker flow.png>)
+<img width="1728" height="807" alt="docker_Flow" src="https://github.com/user-attachments/assets/facdd43a-a657-477c-9259-7af466e502f0" />
 
 
 ## Docker Architecture
 
-![image](static/docker_architecture.png)
+<img width="1728" height="1133" alt="docker_architecture" src="https://github.com/user-attachments/assets/bce1184e-1e3c-4475-8408-1d72f36d0123" />
